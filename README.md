@@ -1,7 +1,7 @@
 							Hotel-Management-System Java
 This project has been created using Java SWING and MySQL database.
    1. Download the repository as a zip file, unzip and open it in java ide.
-   2. In project structure set up two modules from given jar files as given in module folder.
+   2. In project structure set up two modules from given .jar files.
    3. Finally download and setup MySql database and execute the following commands.
    4.  create database hotelms.
    5.   use hotelms.
